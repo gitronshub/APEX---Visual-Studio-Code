@@ -4,5 +4,6 @@ public with sharing class TheCat
     {
         system.debug('Hey cat!');
         system.debug('Cat! Over here!');
+        system.debug('Rimmer!');
     }
 }
