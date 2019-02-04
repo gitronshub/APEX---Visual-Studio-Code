@@ -6,5 +6,6 @@ public with sharing class TheCat
         system.debug('Cat! Over here!');
         system.debug('Rimmer!');
         system.debug('We are flubbed!');
+        system.debug('Lister!');
     }
 }
