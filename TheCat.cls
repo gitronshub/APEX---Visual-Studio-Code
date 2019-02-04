@@ -8,5 +8,6 @@ public with sharing class TheCat
         system.debug('We are flubbed!');
         system.debug('Lister!');
         system.debug('Where are you Lister?!'):
+        system.debug('Lister, hello?!');
     }
 }
