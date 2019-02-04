@@ -11,5 +11,6 @@ public with sharing class TheCat
         system.debug('Lister, hello?!');
         system.debug('Over here Rimmer!');
         system.debug('Hi');
+        system.debug('Bye');
     }
 }
